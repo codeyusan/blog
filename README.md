@@ -1,2 +1,4 @@
 # blog
-[typescript-01](https://github.com/codeyusan/blog/issues/1)
+typescript
++ [typescript-01](https://github.com/codeyusan/blog/issues/1)
+
